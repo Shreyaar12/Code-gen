@@ -1,4 +1,4 @@
-# MinedHack
+# Code Gen: A code generation agent
 
 This project leverages the power of transformers and the Hugging Face pipeline to streamline coding tasks, enhance code interaction through chatbots, and generate coding templates from existing codebases. Our solutions utilize state-of-the-art language models to provide developers with intuitive and efficient tools for code completion, conversation with code, and template generation.
 
